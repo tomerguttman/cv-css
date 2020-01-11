@@ -1,0 +1,150 @@
+a {
+  color: #11999E;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 3%;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  border-style: hidden;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.624rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 40px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 340px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.mountain-img {
+  margin-top: 53px;
+}
+
+.profile-img {
+  padding: 20px;
+  border-radius: 30%;
+  width: 190px;
+  height: 190px;
+  margin: auto;
+}
+
+.education-skills {
+  width: 30%;
+  margin: auto 30px auto auto;
+  float:left;
+}
+
+.additional-skills {
+  width: 30%;
+  margin: auto auto auto 30px;
+  float:right;
+}
+
+.award-skills {
+  width: 18%;
+  margin: auto 30px auto auto;
+  float:left;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.span-fix {
+  margin-left: 10px;
+}
+
+.military-skills {
+  width: 25%;
+  margin: auto auto auto 30px;
+  float:right;
+}
+
+.incorperated-end {
+  color: #EAF6F6;
+  margin: auto auto 0 auto;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.footer-link {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: bold;
+}
+
+.myButton {
+	box-shadow:inset 0px 0px 14px -3px #11999e;
+	background:linear-gradient(to bottom, #11999e 5%, #138387 100%);
+	background-color:#11999e;
+	border-radius:6px;
+	border:1px solid #11999e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:14px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #11999e;
+  margin: auto auto 10px auto;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #138387 5%, #11999e 100%);
+	background-color:#138387;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#pro-underline {
+  text-decoration: underline;
+}
