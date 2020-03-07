@@ -1,6 +1,6 @@
 # cv_css
 Made a cv website using some html and css :)
-the site is hosted in the current address - https://tomerguttman.github.io/cv_css/
+the site is hosted in the current address - https://tomerguttman.github.io/cv-css/
 
 # The intro
 ![alt text](https://raw.githubusercontent.com/tomerguttman/cv_css/master/1.png)
